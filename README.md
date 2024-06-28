@@ -35,10 +35,10 @@ Assurez-vous d'avoir Python 3.10 ou supérieur installé. Vous pouvez le téléc
 ### Installer les Dépendances
 Utilisez pip pour installer les dépendances requises.
 ```bash
-pip install nmap paramiko requests beautifulsoup4 fpdf
+pip install paramiko requests beautifulsoup4 fpdf
 ```
 
-### Installer et Configurer Nmap
+### Installer Nmap
 Suivez les instructions ci-dessous pour installer Nmap sur Kali Linux :
 ```bash
 sudo apt-get update
