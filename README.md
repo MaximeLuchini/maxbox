@@ -9,7 +9,6 @@ MaxBox est une boîte à outils de cybersécurité conçue pour faciliter les te
 - [Utilisation](#utilisation)
 - [Dépendances](#dépendances)
 - [Contributions](#contributions)
-- [Licence](#licence)
 
 ## Introduction
 MaxBox est un outil puissant pour les pentesters et les chercheurs en sécurité. Il permet d'automatiser et de centraliser plusieurs types d'attaques de sécurité courantes. MaxBox simplifie le processus de test de pénétration en fournissant une interface utilisateur graphique conviviale qui facilite l'exécution et la gestion des attaques.
