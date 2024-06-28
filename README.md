@@ -67,7 +67,7 @@ Assurez-vous que ces fichiers contiennent les utilisateurs et mots de passe appr
 ## Utilisation
 ### Lancer MaxBox
 ```bash
-python3 main.py
+sudo python3 main.py
 ```
 
 ### Connexion
