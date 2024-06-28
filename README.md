@@ -35,7 +35,7 @@ Assurez-vous d'avoir Python 3.10 ou supérieur installé. Vous pouvez le téléc
 ### Installer les Dépendances
 Utilisez pip pour installer les dépendances requises.
 ```bash
-pip install paramiko requests beautifulsoup4 fpdf
+sudo pip install paramiko requests beautifulsoup4 fpdf
 ```
 
 ### Installer Nmap
