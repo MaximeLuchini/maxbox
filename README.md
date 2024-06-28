@@ -23,12 +23,17 @@ MaxBox est un outil puissant pour les pentesters et les chercheurs en sécurité
 
 ## Installation
 ### Prérequis
-- Python 3.10 ou supérieur
+- Python 3.10.5 ou supérieur
 - Système d'exploitation Kali Linux
 
 ### Étapes d'Installation
 #### Installer Python
-Assurez-vous d'avoir Python 3.10 ou supérieur installé. Vous pouvez le télécharger depuis le site officiel Python.org.
+Assurez-vous d'avoir Python 3.10.5 ou supérieur installé. Vous pouvez le télécharger depuis le site officiel Python.org.
+
+### Installer le Projet
+```bash
+git clone https://github.com/MaximeLuchini/maxbox.git
+```
 
 ### Installer les Dépendances
 Utilisez pip pour installer les dépendances requises.
