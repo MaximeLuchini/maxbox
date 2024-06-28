@@ -1,4 +1,4 @@
-# MaxBox - Toolbox de Pénétration
+# MaxBox - Toolbox de Tests de Pénétration
 
 MaxBox est une boîte à outils de cybersécurité conçue pour faciliter les tests de pénétration. Cette toolbox permet d'exécuter différentes attaques et de générer des rapports détaillés. Elle inclut des fonctionnalités telles que le scan de ports, la recherche de vulnérabilités CVE, l'injection SQL, les attaques bruteforce SSH et FTP.
 
